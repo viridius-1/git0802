@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaffalhakim1" alt="yaffalhakim1" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, dart, typescript, nextjs, react**
+- 🌱 I’m currently learning **flutter, dart, typescript, nextjs, react, openai**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/yafi_alhakim](linktr.ee/yafi_alhakim)
 
