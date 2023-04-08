@@ -33,6 +33,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaffalhakim1&" alt="yaffalhakim1" /></p>
 
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+</p>
+
 ### 💡 &nbsp;Interested in
 
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
