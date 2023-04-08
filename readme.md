@@ -32,3 +32,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&locale=en" alt="yaffalhakim1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaffalhakim1&" alt="yaffalhakim1" /></p>
+
+### 💡 &nbsp;Interested in
+
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
+![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)&nbsp;
+
+<br />
+
+### ⚙️ &nbsp;Some Stats
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+</p>
+<br />
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
