@@ -39,10 +39,7 @@
 
 ### ⚙️ &nbsp;Some Stats
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
-</p>
-<br />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
