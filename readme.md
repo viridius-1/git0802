@@ -44,8 +44,6 @@
 </p>
 <br />
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yaffalhakim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yaffalhakim1" height="30" width="40" /></a>
