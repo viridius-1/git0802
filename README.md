@@ -3,7 +3,7 @@ This repo contains the deployment files for xypnox.com.
 
 
 
-The code for xypnox.com has been rewritten in react and is not being made available for everyone to stop rampant duplication. To quote [Josh W Comeau](https://twitter.com/JoshWComeau):
+The code for xypnox.com has been rewritten in react and is not being made available for everyone to stop rampant duplication. To quote [Josh W Comeau](https://twitter.com/):
 
 > Here's the thing: this effect is effective *because* it's rare. I'm not interested in commoditizing it, because it would lose its charm!
 >
@@ -13,4 +13,4 @@ The code for xypnox.com has been rewritten in react and is not being made availa
 
 This means that the source code shall not be, for the foreseeable future, made available to the public.
 
-But this doesn't mean it is entirely proprietary either. You can always reach out to me (Twitter: [@xypnox](https://twitter.com/xypnox), and Telegram: [@xypnox](https://t.me/xypnox)) (Find my mail in resume!). And I assure you, if you do, I will help you implement any part of the website you fancy. Just don't straight up ask for the code and use it as a template. Be an artist, take inspiration and create your own masterpiece.
+But this doesn't mean it is entirely proprietary either. You can always reach out to me (Twitter: [@xypnox](https://twitter.com/), and Telegram: [@xypnox](https://t.me/)) (Find my mail in resume!). And I assure you, if you do, I will help you implement any part of the website you fancy. Just don't straight up ask for the code and use it as a template. Be an artist, take inspiration and create your own masterpiece.
