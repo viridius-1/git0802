@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=compulim&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+  <img width="100%" src="[https://github-profile-trophy.vercel.app/?username=compulim&theme=monokai](https://camo.githubusercontent.com/908356f796a8105577b9b193ef5e91ab94b73eacb90aef8aeda71d0fa3d90ef1/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4b6173526f75647261267468656d653d6f6e656461726b267469746c653d4d756c74694c616e67756167652c53746172732c436f6d6d69742c466f6c6c6f776572732c5265706f2c5052)" (https://github.com/ryo-ma/github-profile-trophy) />
 </p>
 
 - 🌱 My major skills **React, Next.js, Vue.js, Angular, NestJS, Node.js, CSS, SCSS, Tailwind CSS, Django, Ruby on Rails, ExpressJS, MongoDB, PostgreSQL, FireBase, Amazon Web Service**
