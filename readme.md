@@ -1,43 +1,90 @@
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-
-<h1 align="center">Hi 👋, I'm Hornet-Developer</h1>
-<h3 align="center">A Creative & Passionate Software Engineer from Blue Plant!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaffalhakim1&label=Profile%20views&color=0e75b6&style=flat" alt="yaffalhakim1" /> </p>
+<!-- ###### HEAD ##### -->
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hornet-🐝-Develoeper&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-- 🌱 My major skills **React, Next.js, Vue.js, Angular, NestJS, Node.js, CSS, SCSS, Tailwind CSS, Django, Ruby on Rails, ExpressJS, MongoDB, PostgreSQL, FireBase, Amazon Web Service**
+<p align="center">
+  <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🌐%20Senior%20Python%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%207%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hornet-Developer?tab=repositories]
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
-- 💬 Ask me about **JavaScript, TypeScript, Python, Ruby, CSS**
+<!-- ###### END OF HEAD ##### -->
 
-- 📫 How to reach me **GMail: hornet.dev.0802@gmail.com, Skype Address: live:.cid.b0dc69b1c5946543**
-
-- ⚡ Fun fact **i always learning something new!**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaffalhakim1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yaffalhakim1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&locale=en" alt="yaffalhakim1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaffalhakim1&" alt="yaffalhakim1" /></p>
-
-### 💡 &nbsp;Interested in
-
-![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
-![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)&nbsp;
+<!-- ###### Languages | Tools ##### -->
 
 <br />
+<h4 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+ </h4>
+ 
+<code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-e-commerce-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-wordpress-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-shopify-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-angularjs-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-vue-js-48.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-express-js-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-next-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-html-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-css-filetype-64.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/icons8-rest-api-64.png" width="35"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
+<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
 
-### ⚙️ &nbsp;Some Stats
+<!-- ###### My Github Stats  ##### -->
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
 
+<div align="center">
+<a href="http://www.github.com/Hornet-Developer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Hornet-Developer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Hornet-Developer's GitHub stats" /></a>
+<a href="http://www.github.com/Hornet-Developer"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hornet-Developer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
+
+<a href="http://www.github.com/Hornet-Developer"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hornet-Developer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+<!-- ###### END OF My Github Stats  ##### -->
+
+<!-- ###### SOCIAL MEDIA LINKS ##### -->
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+<h4 align="center">
+ 
+<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
+</h4>
+
+<p align="center">
+ <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
+ <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+</p>
+
+<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
+
+
+
+
+<!-- ###### FOOTER ##### -->
+
+<h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
+
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+
+
+<!-- ###### END OF FOOTER ##### -->
